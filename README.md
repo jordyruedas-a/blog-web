@@ -20,10 +20,4 @@
 - **Responsive Sidebar:** The fixed left sidebar transforms into a mobile-friendly bottom navigation bar on screens smaller than 900px using CSS media queries (`@media (max-width: 900px)`).
 - **Back-to-Top Button:** A floating action button appears dynamically after the user scrolls down 400 pixels, allowing for quick navigation back to the hero section.
 
----
-
-## 🧪 How to Run & Deploy
-
-Because this is a single HTML file, it does not require a complex backend to run. 
-
 
